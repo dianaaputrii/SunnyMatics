@@ -1,0 +1,16 @@
+body {background-color:yellow;
+      border:6px solid orange;
+      border-radius:16px;
+}
+
+h1 {font-family:courier;
+    font-weight:bold;
+    text-align:center;
+    color:orange;
+}
+
+nav ul {list-style-type:none;
+}
+
+nav ul li {display:inline;
+}
